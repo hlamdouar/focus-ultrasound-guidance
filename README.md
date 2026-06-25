@@ -13,7 +13,7 @@ Official repository for the MICCAI 2026 paper:
 @inproceedings{lamdouar2026focus,
   title={FOCUS: Towards Fetal Obstetric Corrective Ultrasound Guidance},
   author={Lamdouar, Hala and Wang, Angela Feixue and Guo, Xiaoqing and Men, Qianhui and Lander, Jayne and Papageorghiou, Aris T. and Noble, J. Alison},
-  booktitle={NeurIPS},
+  booktitle={MICCAI},
   year={2026}
 }
 ```
